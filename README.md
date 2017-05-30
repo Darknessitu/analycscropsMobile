@@ -1,2 +1,1 @@
-# analycscropsMobile
-# Analytics Crops 
+# Analytics Crops for ios 9+ iPad   
